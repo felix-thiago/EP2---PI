@@ -1,3 +1,10 @@
+Exercício realizado por: 
+
+Kauê Sales
+Vynicius Zanardi
+Gabriel Kenji
+Thiago Félix
+
 Representação do espaço de estados - Qual o tamanho N ideal da sua população? Outros valores melhoram ou pioram?
 Função de Fitness: O quão próximo do ideal você está, aplicado a este caso, garantir que as vans percorram aproximadamente a mesma distância.
 Função de Seleção: Sugestão aplicar a Seleção por tragédia depois de 1000 gerações:
