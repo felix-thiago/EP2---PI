@@ -8,6 +8,7 @@ Abaixo temos resultados de testes realizados que respondem e justificam os ponto
 
 Comparações de tamanho da população
 Tamanho da População = 1000
+
 :::::::::::::::::::::::::::::::::::::::::::::: GEN: 10000 ::::::::::::::::::::::::::::::::::::::::::::::
 
 [[0, 10, 4, 2, 15, 0], [0, 4, 16, 3, 10, 0], [2, 15, 0, 0, 14, 12], [0, 15, 7, 16, 1, 0]]
