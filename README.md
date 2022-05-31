@@ -1,8 +1,8 @@
 Exercício realizado por: 
 
-Kauê Sales
-Vynicius Zanardi
-Gabriel Kenji
+Kauê Sales,
+Vynicius Zanardi,
+Gabriel Kenji,
 Thiago Félix
 
 Representação do espaço de estados - Qual o tamanho N ideal da sua população? Outros valores melhoram ou pioram?
